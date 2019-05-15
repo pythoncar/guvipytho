@@ -1,5 +1,5 @@
 c=input()
-if(c==('a' or 'e' or 'i' or 'o' or 'u')):
+if(c=='a' or c=='e' or c=='i' or c=='o' or c=='u'):
     print('Vowels')
 elif(c=='$'):
     print('invalid')
