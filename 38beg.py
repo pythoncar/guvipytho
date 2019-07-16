@@ -1,2 +1,2 @@
-cap,amer=map(int,input().split())
-print(amer, cap)
+tonny,stack=map(int,input().split())
+print(stack, tonny)
