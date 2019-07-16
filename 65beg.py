@@ -1,0 +1,2 @@
+nayanthra=input()
+print(nayanthra)
