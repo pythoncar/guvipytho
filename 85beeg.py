@@ -12,4 +12,4 @@ for e in c:
     f+=e
 for g in d:
     h+=g
-print(f,' ',h)
+print(f,h)
